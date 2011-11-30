@@ -1,3 +1,12 @@
 [submodule "modules/articles"]
 	path = modules/articles
 	url = git@github.com:floofa/articles.git
+[submodule "modules/users"]
+	path = modules/users
+	url = git@github.com:floofa/users.git
+[submodule "modules/news"]
+	path = modules/news
+	url = git@github.com:floofa/news.git
+[submodule "modules/cms"]
+	path = modules/cms
+	url = git@github.com:floofa/cms.git
